@@ -14,7 +14,7 @@ I am a Third-year Information Technology student with a strong interest in **JAV
 | Category | Technologies |
 |--------|-------------|
 | **Languages** | Python, Java |
-| **DevOps** | Docker, Jenkins, Puppet |
+| **DevOps** | Docker, Jenkins, Puppet, Great Expectations |
 | **CI/CD** | Jenkins Pipelines, GitHub |
 | **Machine Learning** | Face Recognition, Model Training & Testing |
 | **Tools & Platforms** | Git, GitHub |
