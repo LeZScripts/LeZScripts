@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Lekhit Zambre
-🔗 https://github.com/LeZScripts
 
-I am a Third-year Information Technology student with a strong interest in  
-**JAVA, MERN, DevOps**.
-
-
+I am a Third-year Information Technology student with a strong interest in **JAVA, MERN, DevOps**.
 
 ## 🔗 Connect With Me
 
@@ -12,7 +8,6 @@ I am a Third-year Information Technology student with a strong interest in
 - 💼 LinkedIn: https://www.linkedin.com/in/lekhit-zambre-19610a28b   
 - 🐙 GitHub: https://github.com/LeZScripts  
 
----
 
 ## 🚀 Tech Arsenal
 
